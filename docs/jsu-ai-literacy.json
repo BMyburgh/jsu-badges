@@ -1,7 +1,7 @@
 {
   "@context": "https://w3id.org/openbadges/v2",
   "type": "Assertion",
-  "id": "REPLACE_THIS_IN_STEP_3",
+  "id": "https://bmyburgh.github.io/jsu-badges/jsu-ai-literacy.json",
   "recipient": {
     "type": "email",
     "hashed": true,
