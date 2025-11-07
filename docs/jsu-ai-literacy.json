@@ -1,0 +1,21 @@
+{
+  "@context": "https://w3id.org/openbadges/v2",
+  "type": "Assertion",
+  "id": "REPLACE_THIS_IN_STEP_3",
+  "recipient": {
+    "type": "email",
+    "hashed": true,
+    "salt": "jsu2025",
+    "identity": "sha256$f3b2b1d9ba419e38380edc87ca6e7e039d6478fbf51b1b913c74bed05ecd38b8"
+  },
+  "badge": "https://www.jsums.edu/student-ai-microcredential/",
+  "verification": { "type": "HostedBadge" },
+  "issuedOn": "2025-11-07",
+  "evidence": [
+    {
+      "id": "https://www.jsums.edu/student-ai-microcredential/#criteria",
+      "narrative": "Demonstration assertion for institutional validation of the AI Literacy Micro Credential."
+    }
+  ],
+  "image": "https://www.jsums.edu/wp-content/uploads/2025/11/Jackson-State-University.png"
+}
